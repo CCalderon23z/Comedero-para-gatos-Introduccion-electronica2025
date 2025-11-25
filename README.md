@@ -1,7 +1,7 @@
 
 # Comedero Automático para Gatos 
 ## Descripción
-Pequeño sistema que dispensa alimento automáticamente usando
+Pequeño sistema que dispensa alimento de mascotas automáticamente usando un
 <Arduino/ESP32> y un motor.
 ## Funcionamiento
 - El motor entrega porciones controladas.
